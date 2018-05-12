@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35184
     wikipedia: http://en.wikipedia.org/wiki/Frederick_Reynolds
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31374#The-Dramatist--Or-Stop-Him-Who-Can--A-Comedy-in-Five-Acts
 gutenberg_issued: '2010-02-23'
 gutenberg_type: Text
 identifiers:
