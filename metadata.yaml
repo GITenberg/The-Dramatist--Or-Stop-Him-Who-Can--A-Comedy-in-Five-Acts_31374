@@ -1,0 +1,40 @@
+_repo: The-Dramatist--Or-Stop-Him-Who-Can--A-Comedy-in-Five-Acts_31374
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Inchbald, Mrs.
+    alias: Inchbald, Elizabeth Simpson
+    birthdate: 1753
+    deathdate: 1821
+    gutenberg_agent_id: '1305'
+    url: http://www.gutenberg.org/2009/agents/1305
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Inchbald
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reynolds, Frederick
+    aliases:
+    - Reynolds, F. (Frederick)
+    - Reynolds, Frederic
+    birthdate: 1764
+    deathdate: 1841
+    gutenberg_agent_id: '35184'
+    url: http://www.gutenberg.org/2009/agents/35184
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Reynolds
+description: ''
+gutenberg_issued: '2010-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31374'
+  lccn: '31028982'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dramatists -- Drama'
+- !lcc 'PR'
+title: The Dramatist; Or, Stop Him Who Can! A Comedy, in Five Acts
+url: http://www.gutenberg.org/ebooks/31374
